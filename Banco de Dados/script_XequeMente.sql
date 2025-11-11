@@ -1,0 +1,9 @@
+CREATE DATABASE XequeMente;
+USE XequeMente;
+
+CREATE TABLE usuario(
+idUsuario INT PRIMARY KEY AUTO_INCREMENT,
+nome VARCHAR(45),
+email VARCHAR(100),
+senha VARCHAR(45)
+);
