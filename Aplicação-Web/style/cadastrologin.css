@@ -19,6 +19,11 @@ body{
     height: 100%;
     width: 50%;
     background-color: white;
+    
+}
+
+.container_cadastro h1{
+    font-family: cinzel;
 }
 
 .container_cadastro img{
@@ -30,7 +35,7 @@ body{
 .imagem_xadrez{
     height: 100%;
     width: 100%;
-    background-color: blue;
+    /* background-color: blue; */
 }
 
 .imagem_xadrez img{
